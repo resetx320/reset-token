@@ -1,1 +1,12 @@
+{
+  "name": "RESET COIN",
+  "symbol": "RESET",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "CTRL+ALT+DEL for a world owned by 0.1%. RESET COIN is a satirical memecoin that speaks to the absurdity of modern power and money.",
+  "website": "https://reset-coin.netlify.app",
+  "explorer": "https://bscscan.com/token/0x4f5DF337c3FAD9371C8c2A3D00fbE19c05648EA1",
+  "status": "active",
+  "id": "0x4f5DF337c3FAD9371C8c2A3D00fbE19c05648EA1"
+}
 
